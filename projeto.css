@@ -1,0 +1,133 @@
+body{
+    background-color: green;
+}
+#um{
+    position: absolute;
+    top: 3%;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    border: solid 2px green;
+    border-radius: 5px;
+    font-family: "Comic Sans MS";
+    font-size: 25pt;
+
+}
+#dois{
+    display: flex;
+    justify-content: center;
+}
+.aum{
+    position: relative;
+    color: black;
+    text-decoration: none;
+}
+
+#tres{
+    position: absolute;
+    background-color: white;
+    width: 60%;
+    height: 90%;
+    border-radius: 5px;
+}
+#quatro{
+    position: relative;
+    top: 20%;
+    text-align: justify;
+    font-family: "Comic Sans MS";
+    font-size: 20pt;
+
+}
+
+#cinco{
+    position: relative;
+    background-color: white;
+    width: 90%;
+    display: flex;
+    top: 12%;
+    left: 4%;
+    font-size: 20pt;
+
+}
+
+h3{
+    color: green;
+}
+#imgum{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+#luan{
+    position: absolute;
+    top: 13%;
+    left: 32%;
+    border-radius: 5px;
+}
+#bagriel{
+    position: absolute;
+    top: 13%;
+    left: 58%;
+    border-radius: 5px;
+}
+
+#uldois{
+    position: relative;
+    top: 5%;
+
+}
+
+#ultres{
+    position: relative;
+    top: -100%;
+    left: 125%;
+}
+
+.aum:hover{
+    color: green;
+}
+
+canvas{
+    border: 1px solid black;
+    background-color: green;
+}
+#myCanvas{
+    background-image: url("campo.png");
+}
+
+#img3{
+    position: absolute;
+    left: 80%;
+    top: 20%
+}
+#img2{
+    position: absolute;
+    left: 3%;
+    top: 20%
+}
+#seis{
+    display: flex;
+    justify-content: center;
+}
+#sete{
+    position: absolute;
+    font-family: "Comic Sans MS";
+    font-size: 20pt;
+    top: 40%;
+
+}
+.tab1{
+    text-align: center;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 1px solid black;
+
+}
+th{
+    border: 1px solid black;
+    padding: 5px;
+}
